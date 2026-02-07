@@ -57,7 +57,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/William9701/Nobzo_Technical_Evaluation.git
+git clone git@github.com:William9701/Nobzo_Technical_Evaluation.git
 cd Nobzo_Technical_Evaluation
 ```
 
